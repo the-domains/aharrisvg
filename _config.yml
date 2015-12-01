@@ -1,7 +1,7 @@
 name: aharrisvg
 favicon: null
-layout_spectrum: 0.2620717429090291
-typography_spectrum: 0.9487724606879056
+layout_spectrum: 0.94949
+typography_spectrum: 0.17909
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7825646777637303
-  lightness: 0.024630966130644083
-  saturation: 0.23990309378132224
-  rhythmicContrast: 0.6754891579039395
+    - '#000000'
+    - '#3f3f3f'
+    - '#7a7e81'
+    - '#c8c8c8'
+    - '#fe6cbf'
+  brandStrength: 0.625
+  lightness: 0.1875
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
